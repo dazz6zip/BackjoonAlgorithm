@@ -1,4 +1,4 @@
-package org.example.조건문;
+package org.조건문;
 
 import java.util.Scanner;
 
