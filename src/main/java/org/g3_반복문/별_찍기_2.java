@@ -1,4 +1,4 @@
-package org.반복문;
+package org.g3_반복문;
 
 import java.util.Scanner;
 

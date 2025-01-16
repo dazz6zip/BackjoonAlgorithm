@@ -1,4 +1,4 @@
-package org.조건문;
+package org.g2_조건문;
 
 import java.util.Scanner;
 
